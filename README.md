@@ -1,7 +1,7 @@
 # Bot-remover
 To run this program you'll need to install the Instagram bot (Insta bot)
 
-The "Test2" is another variation of the code
+The "Test2" is Blocking the bots
 
 Remember to add your log in info into the my_config file
 
